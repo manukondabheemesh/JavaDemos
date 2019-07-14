@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="118370" started-at="2019-06-30T07:29:01Z" finished-at="2019-06-30T07:31:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="118370" started-at="2019-06-30T07:29:01Z" finished-at="2019-06-30T07:31:00Z">
+      <class name="com.zoopla.tests.AgentPageTest">
+        <test-method status="PASS" signature="setupAgentPage()[pri:0, instance:com.zoopla.tests.AgentPageTest@4fe3c938]" name="setupAgentPage" is-config="true" duration-ms="91269" started-at="2019-06-30T07:29:01Z" finished-at="2019-06-30T07:30:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupAgentPage -->
+        <test-method status="PASS" signature="verifyAgentNameTest()[pri:0, instance:com.zoopla.tests.AgentPageTest@4fe3c938]" name="verifyAgentNameTest" duration-ms="26006" started-at="2019-06-30T07:30:32Z" finished-at="2019-06-30T07:30:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAgentNameTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.zoopla.tests.AgentPageTest@4fe3c938]" name="teardown" is-config="true" duration-ms="1055" started-at="2019-06-30T07:30:58Z" finished-at="2019-06-30T07:31:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.zoopla.tests.AgentPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,3 @@
+java -jar  <war file path> --httpport=8084
+java -jar <warfile path> --httPport
+java -jar <warfile path> -- httPort=8084

@@ -1,0 +1,50 @@
+//*[@id="vContactsForm"]/table/tbody/tr[4]/td[2]/a
+//*[@id="vContactsForm"]/table/tbody/tr[9]/td[2]/a
+//*[@id="vContactsForm"]/table/tbody/tr[4]/td[2]/a
+
+
+
+BeforeXpath="//*[@id="vContactsForm"]/table/tbody/tr["
+AfterXpath="]/td[2]/a"
+
+https://app.swaggerhub.com/apis/Bheemspot
+
+
+---------------------------------------
+
+
+parent and child string text data Url:
+
+https://stackoverflow.com/questions/28945692/how-to-get-text-from-parent-element-and-exclude-text-from-children-c-selenium
+
+https://stackoverflow.com/questions/39741076/how-to-use-selenium-get-text-from-an-element-not-including-its-sub-element
+
+https://stackoverflow.com/questions/35606708/what-is-the-difference-between-and-in-xpath
+
+https://stackoverflow.com/questions/42773772/xpath-span-what-does-the-dot-mean?noredirect=1&lq=1
+
+
+https://stackoverflow.com/questions/12967541/how-to-avoid-staleelementreferenceexception-in-selenium
+
+(stale element exception)
+
+
+git
+
+https://www.youtube.com/watch?v=xqwoTHL6CJ0&list=PLH1ul2iNXl7vkfIFF2BxLA5xpkbvWtFWf
+brain fraser git reference
+
+SDET Pawan
+Selenium Java TestNG Tutorials - Bakkappa N
+--------------
+manu.bheemesh@gmail.com
+manukondabheemesh@gmail.com 
+@Purple1
+--------------
+
+
+
+
+java icons 
+
+http://help.eclipse.org/neon/index.jsp?topic=/org.eclipse.jdt.doc.user/reference/ref-icons.htm

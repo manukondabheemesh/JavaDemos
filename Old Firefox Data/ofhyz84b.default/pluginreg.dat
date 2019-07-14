@@ -1,0 +1,19 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.18t|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+
+[INVALID]
+C:\Program Files (x86)\Adobe\Reader 11.0\Reader\AIR\nppdf32.dll|$
+1509546442000|$
+C:\Program Files (x86)\VideoLAN\VLC\npvlc.dll|$
+1406071752000|$
+C:\Program Files (x86)\Google\Update\1.3.33.23\npGoogleUpdate3.dll|$
+1545367026389|$
+C:\PROGRA~2\MICROS~1\Office14\NPAUTHZ.DLL|$
+1263049938000|$
+C:\PROGRA~2\MICROS~1\Office14\NPSPWRAP.DLL|$
+1263111664000|$
